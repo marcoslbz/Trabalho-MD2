@@ -1,5 +1,8 @@
-//Autor: Marcos Vinícius Lima Bezerra 
-//Matrícula: 211062698
+/*
+Autores: 
+Marcos Vinícius Lima Bezerra - 211062698, 
+Caio Melo Borges - 211030952
+*/
 
 #include <stdio.h>
 
