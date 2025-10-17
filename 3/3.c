@@ -8,6 +8,7 @@ Caio Melo Borges - 211030952
 #include <math.h>
 
 int main() {
+    printf("Autores:\nMarcos Vinicius Lima Bezerra - 211062698\nCaio Melo Borges - 211030952\n");
     int N;
     printf("Insira o valor N (1<= N <= 105): ");
     scanf("%d", &N);
@@ -72,7 +73,6 @@ int main() {
     double razao = (double)sigma / tau;
     printf("Razao de Eficiencia = %.2f\n", razao);
 
-    printf("Autores:\nMarcos Vinicius Lima Bezerra - 211062698\nCaio Melo Borges");
 
     return 0;
 }

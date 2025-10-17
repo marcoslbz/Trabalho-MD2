@@ -27,6 +27,7 @@ long long mmc_list(long long arr[], int n) {
 }
 
 int main() {
+    printf("Autores:\nMarcos Vinicius Lima Bezerra - 211062698\nCaio Melo Borges - 211030952\n");
     int n;
     printf("Insira a quantidade de chaves: ");
     scanf("%d", &n);
@@ -57,6 +58,5 @@ int main() {
         printf("%lld\n", result);
     }
     
-    printf("Autores:\nMarcos Vinicius Lima Bezerra - 211062698\nCaio Melo Borges");
     return 0;
 }
