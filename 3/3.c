@@ -2,12 +2,6 @@
 Autores: 
 Marcos Vinicius Lima Bezerra - 211062698, 
 Caio Melo Borges - 211030952
-
-Programa para calcular a Razao de Eficiencia de um numero N
-Razao de Eficiencia = sigma(N) / tau(N)
-onde:
-- tau(N) = numero total de divisores de N
-- sigma(N) = soma de todos os divisores de N
 */
 
 #include <stdio.h>
